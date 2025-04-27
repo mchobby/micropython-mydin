@@ -39,6 +39,10 @@ __Code Name:__ DINCASE-2R-BP3MOD
 
 That board features a 2 opto-isolated relays capable of interrupting a current of 10 amps under 250V AC. Relays offer NO contacts.
 
+# Documentation
+
+The [full documentation is available on the MCHobby Wiki](https://wiki.mchobby.be/index.php?title=MyDin).
+
 # Examples
 
 This product comes with many examples. They are detailled in the [examples/readme.md](examples/readme_ENG.md) file.
