@@ -1,0 +1,12 @@
+$ mpremote run examples/din_controler/async-exception.py
+
+mcu localtime: 1/1/2000 5:48:58
+Pico3Mod.run() entering...
+USER Loop Setup...
+running event_loop...
+[EXIT] run app exit!
+event_loop ends!
+========================================
+din.run() did exit!!!
+An error KaboomError occured!
+with message: This exception will exits the code   

@@ -1,0 +1,25 @@
+$ mpremote run examples/din_controler/async-scheduler.py
+
+mcu localtime: 1/1/2000 2:22:27
+Pico3Mod.run() entering...
+USER Loop Setup...
+USER Tasks Setup...
+running event_loop...
+loop iteration   1
+DEBUG: Running job <Job object at 20023b40>
+DEBUG: Jobs to await: 1
+loop iteration   2
+DEBUG: Running job <Job object at 20023b40>
+DEBUG: Jobs to await: 1
+DEBUG: Running job <Job object at 20026530>
+DEBUG: Jobs to await: 1
+DEBUG: Running job <Job object at 20023b40>
+DEBUG: Jobs to await: 1
+loop iteration   3
+DEBUG: Running job <Job object at 20023b40>
+DEBUG: Jobs to await: 1
+DEBUG: Running job <Job object at 20026530>
+DEBUG: Jobs to await: 1
+loop iteration   4
+[EXIT] run app exit!
+event_loop ends!

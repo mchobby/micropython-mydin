@@ -1,0 +1,14 @@
+$ mpremote run examples/din_controler/async-read-ds18b20.py
+
+
+mcu localtime: 1/1/2000 5:54:52
+Pico3Mod.run() entering...
+USER Loop Setup...
+Create task for DS18B20
+running event_loop...
+iteration   1 : None °C
+iteration   2 : 21.1875 °C
+iteration   3 : 21.1875 °C
+iteration   4 : 21.1875 °C
+iteration   5 : 21.1875 °C
+iteration   6 : 21.1875 °C
